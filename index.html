@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Converter</title>
+    <link rel="stylesheet" href="null.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="wrapper">
+        <div class="container">
+            <div class="amount">
+                <div class="text__content">Amount</div>
+                <input class="input__quantity select" type="number" value=1>
+            </div>
+
+            <div class="from">
+                <div class="text__content">From</div>
+                <select id="select__from" class = "select">
+                    <option hidden></option>
+                    <option value="m">M</option>
+                    <option value="cm">CM</option>
+                    <option value="in">IN</option>
+                    <option value="ft">FT</option>
+                    <option value="mm">MM</option>
+                    <option value="yd">YD</option>
+                    <option value="km">KM</option>
+                </select>
+            </div>
+
+            <div class="switch">
+                <button class="switch__button"><-Switch-></button>
+            </div>
+
+                <div class="to">
+                    <div class="text__content">To</div>
+                    <select id="select__to" class = "select">
+                        <option hidden></option> 
+                        <option value="m">M</option>
+                        <option value="cm">CM</option>
+                        <option value="in">IN</option>
+                        <option value="ft">FT</option>
+                        <option value="mm">MM</option>
+                        <option value="yd">YD</option>
+                        <option value="km">KM</option>
+                    </select>
+                </div>
+
+                <div class="result">
+                    <div class="text__content">Result</div>
+                    <div class="result__number">0</div>
+                </div>
+                
+            
+        </div>
+    </div>
+
+    <script src="main.js"></script>
+</body>
+</html>

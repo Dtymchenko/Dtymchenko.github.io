@@ -1,0 +1,39 @@
+.wrapper {
+    width: max-width;
+    height: 100%;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: blueviolet;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    background-color: aquamarine;
+    padding: 15px;
+    align-items: center;
+    flex: 0 0 20%;
+    border-radius: 5px;
+    border: 2px solid rgb(51, 92, 180);
+}
+
+.amount, .from, .to, .result {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.text__content {
+    padding: 15px;
+} 
+
+.select {
+    width: 80px;
+    text-align: center;
+}
+
+.switch__button {
+    width: 80px;
+    height: 40px;
+    border: 2px dashed red;
+}
