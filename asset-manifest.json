@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.25742acf.css",
-    "main.js": "/static/js/main.c01d286b.js",
-    "static/js/787.d4c72d78.chunk.js": "/static/js/787.d4c72d78.chunk.js",
-    "index.html": "/index.html",
-    "main.25742acf.css.map": "/static/css/main.25742acf.css.map",
-    "main.c01d286b.js.map": "/static/js/main.c01d286b.js.map",
-    "787.d4c72d78.chunk.js.map": "/static/js/787.d4c72d78.chunk.js.map"
+    "main.css": "/Dtymchenko/Dtymchenko.github.io/static/css/main.25742acf.css",
+    "main.js": "/Dtymchenko/Dtymchenko.github.io/static/js/main.f8a68eab.js",
+    "static/js/787.d4c72d78.chunk.js": "/Dtymchenko/Dtymchenko.github.io/static/js/787.d4c72d78.chunk.js",
+    "index.html": "/Dtymchenko/Dtymchenko.github.io/index.html",
+    "main.25742acf.css.map": "/Dtymchenko/Dtymchenko.github.io/static/css/main.25742acf.css.map",
+    "main.f8a68eab.js.map": "/Dtymchenko/Dtymchenko.github.io/static/js/main.f8a68eab.js.map",
+    "787.d4c72d78.chunk.js.map": "/Dtymchenko/Dtymchenko.github.io/static/js/787.d4c72d78.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.25742acf.css",
-    "static/js/main.c01d286b.js"
+    "static/js/main.f8a68eab.js"
   ]
 }
